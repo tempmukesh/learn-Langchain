@@ -1,0 +1,46 @@
+# Hi there 👋 I'm Mukesh Kumar
+
+🔹 **AI & Data Science Enthusiast:** Passionate about Artificial Intelligence, Machine Learning, Data Science, and scalable AI systems. Currently focused on building practical AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern backend workflows. Enthusiastic about solving real-world problems through intelligent automation and data-driven solutions.
+
+🔹 **Technical Proficiency:** Skilled in Python, SQL, Machine Learning fundamentals, Data Analysis, and backend development. Familiar with frameworks and tools such as NumPy, Pandas, FastAPI, LangChain, Git, Docker, DVC, and Vector Databases. Continuously learning MLOps, observability, scalable AI architectures, and cloud-based AI deployment workflows.
+
+🔹 **Learning & Development Focus:**
+
+* Large Language Models (LLMs)
+* RAG-Based AI Applications
+* NLP & Prompt Engineering
+* AI Workflow Automation
+* Backend Engineering with Python
+* Data Structures & Algorithms
+* MLOps & AI System Design
+* Open Source Development
+
+🔹 **Notable Projects & Interests:**
+
+**RAG-Based Chatbot Systems:**
+Developing intelligent chatbot workflows capable of contextual information retrieval and document-based querying using LangChain and vector databases.
+
+**AI Workflow Automation:**
+Exploring automation systems for AI pipelines, embeddings, API integrations, and scalable backend architectures.
+
+**Data Science & Analytics Projects:**
+Building projects focused on exploratory data analysis, predictive modeling, and practical ML implementations using Python-based ecosystems.
+
+**Content Creation & Learning Systems:**
+Actively creating educational content and experimenting with systems that combine AI, automation, and creativity.
+
+🔹 **Tools & Technologies:**
+Python • SQL • C/C++ • FastAPI • LangChain • Git • GitHub • Docker • DVC • NumPy • Pandas • Linux • VS Code • Render • APIs • Vector Databases
+
+🔹 **Creative & Technical Exploration:**
+Alongside AI and software engineering, also exploring Blender, visual storytelling, and technical content creation to combine creativity with technology.
+
+🔹 **Continuous Learning Mindset:**
+Dedicated to improving every day through hands-on projects, open-source exploration, technical research, and consistent experimentation with emerging AI technologies.
+
+🔹 **Open to Opportunities & Collaboration:**
+Interested in collaborating on AI, Data Science, backend engineering, automation, and open-source projects while continuously growing as an AI Engineer and developer.
+
+---
+
+⭐ Building, learning, and experimenting every single day.
