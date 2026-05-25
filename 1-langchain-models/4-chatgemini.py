@@ -20,6 +20,14 @@ result = output.content
 
 print(result)
 
+
+
+
+
+
+
+
+
 # **System design** is the process of defining the architecture, components, modules, interfaces, and data for a system to satisfy specified requirements. It's essentially the blueprint for how a software system will be built, outlining its structure, behavior, and interactions.
 
 # Think of it like an architect designing a building:
